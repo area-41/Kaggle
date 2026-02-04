@@ -44,4 +44,11 @@ Análise estatística e visual de dados, identificação de padrões, outliers e
 Análise descritiva da qualidade do Vinho, outliers e insights acionáveis.
 
 ---
+### 🔹 Projeto 3 — Análise Exploratória de Dados Airline Passenger Satisfaction
+📎 Notebook:  
+👉 https://www.kaggle.com/code/area41/airline-passenger-satisfaction
 
+**Descrição:**  
+Análise descritiva da qualidade do Vinho, outliers e insights acionáveis.
+
+---

@@ -28,7 +28,7 @@ Os projetos aqui apresentados exploram dados reais, boas práticas de ciência d
 
 ## Projetos no Kaggle
 
-### 🔹 Projeto 1 — Análise Exploratória de Dados
+### 🔹 Projeto 1 — Análise Exploratória de Dados Salifort Motors
 📎 Notebook:  
 👉 https://www.kaggle.com/code/area41/capstone-salifort-motors
 
@@ -36,3 +36,12 @@ Os projetos aqui apresentados exploram dados reais, boas práticas de ciência d
 Análise estatística e visual de dados, identificação de padrões, outliers e insights acionáveis.
 
 ---
+### 🔹 Projeto 2 — Análise Exploratória de Dados Red Wine Quality
+📎 Notebook:  
+👉 https://www.kaggle.com/code/area41/red-wine-quality
+
+**Descrição:**  
+Análise descritiva da qualidade do Vinho, outliers e insights acionáveis.
+
+---
+

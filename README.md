@@ -1,4 +1,4 @@
-# 📊 Kaggle Portfolio — Data Science & Machine Learning
+# Kaggle Portfolio — Data Science & Machine Learning
 
 Bem-vindo(a)!  
 Este repositório reúne meus principais **trabalhos desenvolvidos no Kaggle**, com foco em **análise de dados, machine learning e soluções orientadas a data driven**.
@@ -7,7 +7,7 @@ Os projetos aqui apresentados exploram dados reais, boas práticas de ciência d
 
 ---
 
-## 🎯 Objetivos do Portfólio
+## Objetivos do Portfólio
 
 - Demonstrar habilidades em **Data Analysis, Feature Engineering e Machine Learning**
 - Compartilhar notebooks reproduzíveis e bem documentados
@@ -16,7 +16,7 @@ Os projetos aqui apresentados exploram dados reais, boas práticas de ciência d
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python** (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 - **Jupyter Notebooks**
@@ -26,7 +26,7 @@ Os projetos aqui apresentados exploram dados reais, boas práticas de ciência d
 
 ---
 
-## 📌 Projetos no Kaggle
+## Projetos no Kaggle
 
 ### 🔹 Projeto 1 — Análise Exploratória de Dados
 📎 Notebook:  
